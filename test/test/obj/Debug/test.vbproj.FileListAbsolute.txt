@@ -1,0 +1,11 @@
+C:\Users\Ali\Documents\Visual Studio 2015\Projects\test\test\bin\Debug\test.exe.config
+C:\Users\Ali\Documents\Visual Studio 2015\Projects\test\test\obj\Debug\test.vbprojResolveAssemblyReference.cache
+C:\Users\Ali\Documents\Visual Studio 2015\Projects\test\test\obj\Debug\WindowsApplication1.Mainform.resources
+C:\Users\Ali\Documents\Visual Studio 2015\Projects\test\test\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Ali\Documents\Visual Studio 2015\Projects\test\test\obj\Debug\test.vbproj.GenerateResource.Cache
+C:\Users\Ali\Documents\Visual Studio 2015\Projects\test\test\obj\Debug\test.xml
+C:\Users\Ali\Documents\Visual Studio 2015\Projects\test\test\bin\Debug\test.exe
+C:\Users\Ali\Documents\Visual Studio 2015\Projects\test\test\bin\Debug\test.pdb
+C:\Users\Ali\Documents\Visual Studio 2015\Projects\test\test\bin\Debug\test.xml
+C:\Users\Ali\Documents\Visual Studio 2015\Projects\test\test\obj\Debug\test.exe
+C:\Users\Ali\Documents\Visual Studio 2015\Projects\test\test\obj\Debug\test.pdb
